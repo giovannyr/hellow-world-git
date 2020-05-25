@@ -1,3 +1,6 @@
+# Version
+Version actual: v1.2.2
+
 # cabecera h1
 ## cabecera h2
 ### cabecera h3
